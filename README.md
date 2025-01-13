@@ -161,14 +161,3 @@ notebook-markdown-translator/
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🔄 Latest Updates
-
-- Simplified JSON structure to focus only on markdown content
-- Added translation prompt template
-- Added example of translation workflow
-- Improved error handling with rich console output
-- Added progress bars for extraction and application
-- Fixed metadata type validation
-- Added comprehensive .gitignore
-- Added proper project structure with src layout
